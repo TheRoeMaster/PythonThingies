@@ -1,4 +1,5 @@
 print('Witajcie parafianie!')
+#Linia komentarza
 print('Zapraszam Was do mjego zaduuuuszystego quizu')
 print('No to co, pierwsze pytanie na temat Halloween')
 print('UWAGA! WSZYSTKIE ODPOWIEDZI PROSZĘ PISAĆ W WIELKIEJ LITERY!')
